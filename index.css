@@ -49,7 +49,7 @@ nav a {
     height: 700px;
     align-items: center;
     justify-content: center;
-    background-image: url(img-mission-background.jpg);
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg");
 }
 
 .banner .banner-content {
